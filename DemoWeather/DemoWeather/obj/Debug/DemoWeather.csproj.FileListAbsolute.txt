@@ -1,0 +1,6 @@
+C:\Users\lenovo\documents\visual studio 2013\Projects\DemoWeather\DemoWeather\bin\DemoWeather.dll.config
+C:\Users\lenovo\documents\visual studio 2013\Projects\DemoWeather\DemoWeather\bin\DemoWeather.dll
+C:\Users\lenovo\documents\visual studio 2013\Projects\DemoWeather\DemoWeather\bin\DemoWeather.pdb
+C:\Users\lenovo\documents\visual studio 2013\Projects\DemoWeather\DemoWeather\obj\Debug\DemoWeather.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\documents\visual studio 2013\Projects\DemoWeather\DemoWeather\obj\Debug\DemoWeather.dll
+C:\Users\lenovo\documents\visual studio 2013\Projects\DemoWeather\DemoWeather\obj\Debug\DemoWeather.pdb
